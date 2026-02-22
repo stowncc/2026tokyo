@@ -1,0 +1,9 @@
+{
+  "name": "2026 東京之旅",
+  "short_name": "東京2026",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#2196F3",
+  "icons": []
+}
