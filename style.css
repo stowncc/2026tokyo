@@ -310,8 +310,8 @@ tr.row-wbc del {
 
 /* 已訂位 badge */
 .badge-reserved {
-  background: #059669;
-  color: #fff;
+  background: #FCE7F3;
+  color: #BE185D;
   font-size: 0.75em;
   font-weight: 700;
   padding: 2px 8px;
